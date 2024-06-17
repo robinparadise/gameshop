@@ -56,7 +56,7 @@ Crea un modal que se abra al hacer clic en una card de los artículos.
 
 ---
 
-**Tarea 4.a (3 puntos):** Gráfica
+**Tarea 4.a (2 puntos):** Gráfica
 
 Muestra una gráfica de tarta `pie` que muestre la cantidad de favoritos vs total de juegos.
 
@@ -68,7 +68,7 @@ Muestra una gráfica de tarta `pie` que muestre la cantidad de favoritos vs tota
 
 ---
 
-**Tarea 4.b (3 puntos):** Pdf
+**Tarea 4.b (2 puntos):** Pdf
 
 Crea un botón en la página `index.php` para descargar un PDF con la lista de juegos.
 
